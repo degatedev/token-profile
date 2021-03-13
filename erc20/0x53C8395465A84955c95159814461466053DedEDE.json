@@ -1,0 +1,22 @@
+{
+  "symbol": "DG",
+  "address": "0x53C8395465A84955c95159814461466053DedEDE",
+  "overview":{
+        "en": "DG will be DeGate’s native token with a total supply of 1 Billion, 100% owned by Home DAO initially.",
+        "zh": "DG是DeGate的原生代币，总量为10亿，100%由Home DAO初始拥有。"
+  },
+  "email": "contact@degate.com",
+  "website": "https://degate.com/",
+  "whitepaper": "https://common-resource.degate.com/doc/whitepaper_cn.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-03-12",
+  "initial_price":{
+        "USD":"0.005 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/DeGateDex",
+    "telegram": "https://t.me/degate_public",
+    "github": "https://github.com/degatedev",
+    "medium": "https://medium.com/degate"
+  }
+}
